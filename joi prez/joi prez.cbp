@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="joi prez" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/joi prez" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/joi prez" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Casuta.h" />
+		<Unit filename="ConstanteEcran.h" />
+		<Unit filename="LibPredefinite.h" />
+		<Unit filename="MutarePiese.h" />
+		<Unit filename="TablaJoc.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="nivele/nivel1.txt" />
+		<Unit filename="nivele/nivel10.txt" />
+		<Unit filename="nivele/nivel11.txt" />
+		<Unit filename="nivele/nivel12.txt" />
+		<Unit filename="nivele/nivel13.txt" />
+		<Unit filename="nivele/nivel14.txt" />
+		<Unit filename="nivele/nivel15.txt" />
+		<Unit filename="nivele/nivel16.txt" />
+		<Unit filename="nivele/nivel17.txt" />
+		<Unit filename="nivele/nivel18.txt" />
+		<Unit filename="nivele/nivel19.txt" />
+		<Unit filename="nivele/nivel2.txt" />
+		<Unit filename="nivele/nivel20.txt" />
+		<Unit filename="nivele/nivel21.txt" />
+		<Unit filename="nivele/nivel22.txt" />
+		<Unit filename="nivele/nivel23.txt" />
+		<Unit filename="nivele/nivel24.txt" />
+		<Unit filename="nivele/nivel25.txt" />
+		<Unit filename="nivele/nivel26.txt" />
+		<Unit filename="nivele/nivel27.txt" />
+		<Unit filename="nivele/nivel28.txt" />
+		<Unit filename="nivele/nivel29.txt" />
+		<Unit filename="nivele/nivel3.txt" />
+		<Unit filename="nivele/nivel30.txt" />
+		<Unit filename="nivele/nivel4.txt" />
+		<Unit filename="nivele/nivel5.txt" />
+		<Unit filename="nivele/nivel6.txt" />
+		<Unit filename="nivele/nivel7.txt" />
+		<Unit filename="nivele/nivel8.txt" />
+		<Unit filename="nivele/nivel9.txt" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

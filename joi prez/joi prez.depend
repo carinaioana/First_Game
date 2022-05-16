@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1642011377 source:c:\users\ionut\documents\codeblocks\jump in game\joi prez\main.cpp
+	"MutarePiese.h"
+
+1641381541 c:\users\ionut\documents\codeblocks\jump in game\joi prez\tablajoc.h
+	"Casuta.h"
+
+1641379882 c:\users\ionut\documents\codeblocks\jump in game\joi prez\casuta.h
+	"LibPredefinite.h"
+	"ConstanteEcran.h"
+
+1641379917 c:\users\ionut\documents\codeblocks\jump in game\joi prez\constanteecran.h
+
+1641994929 c:\users\ionut\documents\codeblocks\jump in game\joi prez\libpredefinite.h
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	"graphics.h"
+	<dos.h>
+	<mmsystem.h>
+
+1642011377 c:\users\ionut\documents\codeblocks\jump in game\joi prez\mutarepiese.h
+	"TablaJoc.h"
+
